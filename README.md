@@ -5,5 +5,6 @@
 - MyPage 및 Sidebar (사용자에 따른 동적 UI 구현, Dummy.json 더미데이터 사용)
 - Login 기능 구현
 - Kakao Login 기능 구현(인가코드 전달)
+- 회원가입 기능 구현
 - AboutUs 페이지 구현
 - 디자인(Figma)
