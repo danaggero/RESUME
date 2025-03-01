@@ -1,4 +1,4 @@
-# RESUME
+# RESUME for UMC
 활동기록 요약 및 이미지들입니다.
 
 - 디자인(Figma)
